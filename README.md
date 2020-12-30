@@ -38,5 +38,5 @@
 
 ## ☎️ Contact Me
 
-![Linkedin Badge](https://img.shields.io/badge/-Kauwai%20Lucchesi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauwailucchesi/)
-![Outlook Badge](https://img.shields.io/badge/-kauwainobre@outlook.com-00a2ed?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:kauwainobre@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Kauwai%20Lucchesi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauwailucchesi/)](https://www.linkedin.com/in/kauwailucchesi/)
+[![Outlook Badge](https://img.shields.io/badge/-kauwainobre@outlook.com-00a2ed?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:kauwainobre@outlook.com)](mailto:kauwainobre@outlook.com)
