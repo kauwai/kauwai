@@ -8,7 +8,6 @@
 
 ## 🛠 Technologies and Tools
 
----
 
 ### Frontend
 
@@ -30,15 +29,12 @@
 
 ## 📈 GitHub Analytics
 
----
 
 [![Kauwai's Github Stats](https://github-readme-stats.vercel.app/api?username=kauwai&show_icons=true&theme=tokyonight)](https://github.com/kauwai/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauwai&layout=compact&theme=tokyonight)](https://github.com/kauwai/github-readme-stats) </br></br>
 
 ## ☎️ Contact Me
-
----
 
 ![Linkedin Badge](https://img.shields.io/badge/-Kauwai%20Lucchesi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauwailucchesi/)
 ![Outlook Badge](https://img.shields.io/badge/-kauwainobre@outlook.com-00a2ed?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:kauwainobre@outlook.com)
