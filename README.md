@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kauwai
+# 👋 Hello there, I'm Kauwai
 
 💻 I'm a Full-Stack Developer from Brasilia, Brazil!
 
