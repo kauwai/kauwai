@@ -2,7 +2,7 @@
 
 💻 I'm a Full-Stack Developer from Brasilia, Brazil!
 
-🌎 Despite going to college for International Relations, I'm fascinated by coding and decided to learn how to code by myself and by attending bootcamps and online lectures.
+🌎 Despite going to college for International Relations, I'm fascinated by coding and decided to learn how to code by myself and also by attending bootcamps and online lectures.
 
 <img alt="Coding Guy" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 
@@ -28,6 +28,7 @@
 ### 📚 Currently Learning
 
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=00CC00)
 
 ## 📈 GitHub Analytics
 
