@@ -18,8 +18,9 @@
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express.js&logoColor=76D04B)
+![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure&logoColor=66C611)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=FFF)
 
 ### Version Control System
 
