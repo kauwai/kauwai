@@ -2,7 +2,7 @@
 
 💻 I'm a Full-Stack Developer from Brasilia, Brazil!
 
-🌎 Despite going to college for International Relations, I'm fascinated by coding and decided to learn how to code by myself and also by attending bootcamps and online lectures.
+🌎 Interest in coding and learning each day.
 
 <img alt="Coding Guy" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 
