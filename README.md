@@ -2,7 +2,7 @@
 
 💻 I'm a Full-Stack Developer from Brasilia, Brazil!
 
-🌎 Interest in coding and learning each day.
+🌎 Interested in coding and learning every day.
 
 <img alt="Coding Guy" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 
