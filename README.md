@@ -8,31 +8,27 @@
 
 ## 🛠 Technologies and Tools
 
+### Tech Stack
 
-### Frontend
+![Clojure](https://img.shields.io/badge/Clojure-239120?logo=clojure&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+### Currently Learning
 
-### Backend
-
-![Node](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure&logoColor=66C611)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=Express&logoColor=FFF)
-
-### Version Control System
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
-
-### 📚 Currently Learning
-
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=764ABC)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB&logoColor=00CC00)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 ## 📈 GitHub Analytics
-
 
 [![Kauwai's Github Stats](https://github-readme-stats.vercel.app/api?username=kauwai&show_icons=true&theme=tokyonight)](https://github.com/kauwai/github-readme-stats)
 
@@ -40,5 +36,5 @@
 
 ## ☎️ Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kauwai%20Lucchesi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauwailucchesi/)](https://www.linkedin.com/in/kauwailucchesi/)
-[![Outlook Badge](https://img.shields.io/badge/-kauwainobre@outlook.com-00a2ed?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:kauwainobre@outlook.com)](mailto:kauwainobre@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kauwailucchesi/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:kauwainobre@outlook.com)
